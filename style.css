@@ -1,0 +1,23 @@
+.imagenes {
+    width: 300px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    gap: 40px;
+}
+
+.inicio {
+    background-color: lavenderblush;
+}
+
+.iconito {
+    width: 30px;
+}
+
+.espacio {
+    gap: 40px;
+}
